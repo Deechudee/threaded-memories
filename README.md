@@ -1,16 +1,43 @@
-# React + Vite
+# 🧵 Threaded Memories
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Threaded Memories is a pastel-themed "handmade gift website" built using "React (Vite)".  
+The project is created mainly for learning full-stack development, while also serving as a foundation for a future side business that sells personalized embroidery hoop gifts.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## 🌸 About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This website represents a handmade embroidery brand where users can explore custom gift ideas such as:
+- Birthday embroidery hoops
+- Wedding & anniversary gifts
+- Personalized name and date embroidery
 
-## Expanding the ESLint configuration
+The project focuses on understanding:
+- How React works
+- Component-based architecture
+- Props and reusable UI
+- Styling with custom fonts
+- Real-world project structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## 🎯 Project Goals
+
+- Learn React fundamentals (components, props, structure)
+- Build a realistic business website UI
+- Practice clean UI design using mild pastel colors
+- Prepare a base for full-stack expansion (backend + database later)
+
+
+
+## 🛠️ Tech Stack
+
+- Frontend: React (Vite)
+- Language: JavaScript
+- Styling: CSS
+- Fonts: Custom cursive font (Maellen)
+- Version Control: Git & GitHub
+
+
+
+
